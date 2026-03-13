@@ -7,7 +7,7 @@
 
 
 ## Invitation Link
-Use the link from class-wide announcement to join the course group. Please check you email.
+Use the link from class-wide announcement to join the course group. Please check you email and/or eLOK assignment page.
 
 After clicking the link, accept the group invitation by logging into your DataCamp account (or create a free account). Make sure your that you are using UGM's credential for your account.
 
